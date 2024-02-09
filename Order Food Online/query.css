@@ -1,0 +1,12 @@
+@media (max-width:1200px){
+    *{
+        background-color: rgb(231, 206, 169);
+        font-size: 20px;       
+        }
+    }
+@media (max-width:600px){
+    *{
+        font-size: 10px;
+        background-color: transparent;
+    }
+}
